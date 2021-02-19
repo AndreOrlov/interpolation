@@ -1,6 +1,6 @@
 # Interpolation
 
-**Interpolation string. Borrowed from Gettext lib**
+**Interpolation string. Borrowed from [Gettext lib](https://github.com/elixir-gettext/gettext/blob/master/lib/gettext/interpolation.ex)**
 
 ## Installation
 
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/interpolation](https://hexdocs.pm/interpolation).
-
